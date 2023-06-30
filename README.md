@@ -1,5 +1,5 @@
 # Quiz_python_socket
-quiz em python usando socket para conexão com o servidor de perguntas, tradando os fechamento do cliente ou servidor com a tecla de atalho CTRL+C
+Quiz em python usando socket para conexão com o servidor de perguntas, usando thread para conexão multicliente tratando o fechamento do cliente ou servidor com a tecla de atalho CTRL+C
 
 1- Os arquivos perguntas.txt e gabarito.txt deve estar na mesma pasta que o arquivo server.py
 
